@@ -1,2 +1,2 @@
 # linkDownload
-link-download.netlify.app
+ http://link-download.netlify.app
